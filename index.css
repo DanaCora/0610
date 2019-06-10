@@ -1,0 +1,41 @@
+body{
+	font-family:微軟正黑體;
+	background-color: #F4EFFF;
+}
+
+.navbar-brand{
+	font-size: 25px;
+}
+
+.nav-item{
+	padding-right: 15px;
+	font-size: 20px;
+}
+
+h5{
+	color:#967000;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.img{
+	color:white;
+}
+
+.p{
+	color: #777;
+	line-height: 45px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.footer {
+	background-color:#F4EFFF;
+	margin-top: 10px;
+	font-size: 17px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	font-weight: bold;
+}
